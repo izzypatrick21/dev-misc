@@ -5,6 +5,6 @@ miscalleneous tutorials
 1. tailwind
 
 
-2. modern browsers - tailwind project
+2. Bookmark Manager - tailwind project
 
 ![alt text](./readmeimgs/bookmark.png)
