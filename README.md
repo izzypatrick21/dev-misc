@@ -2,7 +2,7 @@
 
 miscalleneous tutorials
 
-1. tailwind
+1. Food App - tailwind 
 
 
 2. Bookmark Manager - tailwind project
