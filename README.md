@@ -7,12 +7,11 @@ miscalleneous tutorials
 
 2. Bookmark Manager - tailwind project
 
-![alt text](./readmeimgs/bookmark.png)
+![alt text](./readme-images/bookmark.png)
 
 
 3. 
 
 4. 
-
 
 5. 
